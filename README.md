@@ -14,6 +14,7 @@
    - [Step 4: Submit Your Work via Pull Request](#step-4-submit-your-work-via-pull-request)
 
 
+
 ## Overview
 
 For this lab, we are going to take the existing React application that you created in the previous lab and add some additional functionality. Specifically, we are going to connect the React application to an existing Node application. The React application will fetch and store products data in the React state. The React application will also allow the user to add products to the cart. The React application will then send the cart data to the Node application to create new orders, will also be displayed in the React application.
